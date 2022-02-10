@@ -1,4 +1,4 @@
-# flags-pandas-python
+# pandas-python
 
 ## csv fields:
 Available in: [github repository](https://github.com/edubd/pandas/blob/master/flags.csv)
